@@ -1,7 +1,7 @@
 {
-  "name": "Vanilla Project",
+  "name": "Javascript Project",
   "version": "1.0.0",
-  "description": "멋쟁이 사자처럼 바닐라 프로젝트",
+  "description": "멋쟁이 사자처럼 자바스크립트 프로젝트",
   "main": "main.js",
   "scripts": {},
   "keywords": [
